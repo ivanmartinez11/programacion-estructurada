@@ -4,7 +4,7 @@ int main()
   printf("\n********************************");
   printf("\n*          Tarea 5             *");
   printf("\n* Martinez Baeza Ivan Emmanuel *");
-  printf("\n* Matricula #########          *"); //! PON TU MATRICULA
+  printf("\n* Matricula 2203030524         *"); //! PON TU MATRICULA
   printf("\n********************************\n");
 
   int numero = 0, divisiones = 1;
